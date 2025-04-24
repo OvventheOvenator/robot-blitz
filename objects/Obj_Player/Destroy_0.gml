@@ -1,0 +1,1 @@
+if (lives = 0) then instance_destroy()
