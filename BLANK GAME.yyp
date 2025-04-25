@@ -34,6 +34,7 @@
   },
   "name":"BLANK GAME",
   "resources":[
+    {"id":{"name":"Fnt_1","path":"fonts/Fnt_1/Fnt_1.yy",},},
     {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},},
     {"id":{"name":"Obj_enemy","path":"objects/Obj_enemy/Obj_enemy.yy",},},
     {"id":{"name":"Obj_game","path":"objects/Obj_game/Obj_game.yy",},},

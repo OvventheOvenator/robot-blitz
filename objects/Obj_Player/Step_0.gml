@@ -14,3 +14,13 @@ if (y > room_height - sprite_height) {
 if (y < sprite_height / 2) {
 	y = sprite_height / 2;
 }
+/*
+switch (Velocity) {
+	case 0:
+	image_speed = 0;
+	break;
+	case 5:
+	image_speed = 1;
+	break;
+}
+*/
