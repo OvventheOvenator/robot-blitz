@@ -1,1 +1,1 @@
-instance_destroy(Obj_Player);
+instance_destroy();

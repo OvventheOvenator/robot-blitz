@@ -5,3 +5,5 @@ instance_create_layer(
 		"instances",
 		Obj_bullet
 	);
+	
+	audio_play_sound(Snd_shoot, 1, false);
