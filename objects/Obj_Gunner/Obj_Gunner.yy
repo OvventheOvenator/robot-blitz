@@ -1,15 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_enemy2",
+  "%Name":"Obj_Gunner",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_enemy2",
+  "name":"Obj_Gunner",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -34,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_enemy2",
-    "path":"sprites/Spr_enemy2/Spr_enemy2.yy",
+    "name":"Spr_Gunner",
+    "path":"sprites/Spr_Gunner/Spr_Gunner.yy",
   },
   "spriteMaskId":null,
   "visible":true,

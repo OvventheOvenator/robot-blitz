@@ -1,5 +1,7 @@
 Velocity = 5;
 
+game_time = 0;
+
 if (lives <= 0) {
 	instance_destroy(Obj_Player);
 }

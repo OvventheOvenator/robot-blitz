@@ -14,6 +14,8 @@ if (y > room_height - sprite_height) {
 if (y < sprite_height / 2) {
 	y = sprite_height / 2;
 }
+
+game_time += 1;
 /*
 switch (Velocity) {
 	case 0:
